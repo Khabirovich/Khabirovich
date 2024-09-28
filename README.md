@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on some telegrams bots<br>I'm ex cost control specialist <br>I’m interested in data science<br> I’m currently learning big data tools
+I'm ex cost control specialist <br>I’m interested in data science<br> I’m currently learning big data tools
 
 
 ## 🌐 Socials:
